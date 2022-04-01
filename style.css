@@ -74,8 +74,8 @@ a {
 .main {
     margin-left: 2.5em;
     padding-top: .5em;
-    min-width: 10em;
 }
 .main div {
     margin-bottom: 1.2em;
+    min-width: 10em;
 }
